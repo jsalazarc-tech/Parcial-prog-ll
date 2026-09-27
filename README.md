@@ -75,3 +75,6 @@ Permite conocer el año en que fue publicado el libro.
 
 Permite comprobar si todavía existen ejemplares disponibles para realizar un préstamo.
 
+## Diagrama UML
+
+El diagrama UML representa las clases del proyecto y las relaciones de herencia entre ellas.
