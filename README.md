@@ -78,3 +78,8 @@ Permite comprobar si todavía existen ejemplares disponibles para realizar un pr
 ## Diagrama UML
 
 El diagrama UML representa las clases del proyecto y las relaciones de herencia entre ellas.
+
+## Participación de integrantes
+
+Cada integrante trabajó en una rama independiente
+utilizando Git y GitHub.
